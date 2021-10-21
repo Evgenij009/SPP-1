@@ -1,0 +1,11 @@
+E:\5 сем\СПП\лаба 1.2\Tracer\bin\Debug\Tracer.dll
+E:\5 сем\СПП\лаба 1.2\Tracer\bin\Debug\Tracer.pdb
+E:\5 сем\СПП\лаба 1.2\Tracer\obj\Debug\Tracer.dll
+E:\5 сем\СПП\лаба 1.2\Tracer\obj\Debug\Tracer.pdb
+E:\5 сем\СПП\лаба 1.2\Tracer\obj\Debug\Tracer.csprojAssemblyReference.cache
+P:\SPP\task1\Laba1\Tracer\bin\Debug\Tracer.dll
+P:\SPP\task1\Laba1\Tracer\bin\Debug\Tracer.pdb
+P:\SPP\task1\Laba1\Tracer\obj\Debug\Tracer.csproj.AssemblyReference.cache
+P:\SPP\task1\Laba1\Tracer\obj\Debug\Tracer.csproj.CoreCompileInputs.cache
+P:\SPP\task1\Laba1\Tracer\obj\Debug\Tracer.dll
+P:\SPP\task1\Laba1\Tracer\obj\Debug\Tracer.pdb
